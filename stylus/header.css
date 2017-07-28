@@ -1,0 +1,61 @@
+.sprite-logo {
+  width: 67px;
+  height: 42px;
+  background-position: -72px -27px;
+}
+.header_wrapper {
+  padding-top: 12px;
+  padding-bottom: 7px;
+  z-index: 9999;
+  position: fixed;
+  background-color: #fff;
+  width: 100%;
+}
+.nav li {
+  display: inline-block;
+  margin: 2%;
+}
+.nav li div {
+  margin-top: 2px;
+  height: 1px;
+}
+a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #555;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+}
+a:hover {
+  color: #5363db;
+}
+.nav_checked a {
+  color: #5363db;
+}
+.underline {
+  height: 1px;
+  width: 50%;
+  background-color: #5363db;
+  margin-left: 25%;
+}
+.nav_wrap {
+  display: table-cell;
+  vertical-align: middle;
+  width: 1%;
+}
+.logo {
+  text-align: center;
+}
+.logo div {
+  display: inline-block;
+}
+.logo p {
+  font-family: "Champagne & Limousines", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  color: #5363db;
+}
+.nav_part_left {
+  text-align: right;
+}

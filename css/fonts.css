@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Freestyle Script";
+  src: url(../fonts/FREESCPT.TTF);
+  src: url(../fonts/FreestyleScript.eot);
+  src: url('../fonts/FreestyleScript.eot?#iefix') format('embedded-opentype'),
+  url(../fonts/FreestyleScript.woff) format('woff');
+}
+
+@font-face {
+  font-family: "Champagne & Limousines";
+  src: url(../fonts/Champagne_Limousines.ttf);
+  src: url(../fonts/champagne_limousines_bold.eot);
+  src: url('../fonts/champagne_limousines_bold.eot?#iefix') format('embedded-opentype'),
+  url(../fonts/champagne_limousines_bold.woff) format('woff');
+}

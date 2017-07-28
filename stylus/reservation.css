@@ -1,0 +1,103 @@
+.reservation {
+  position: relative;
+}
+.add_reserve_wrap {
+  padding-top: 95px;
+}
+.block_reservation_wrap {
+  height: 600px;
+  background: url("../img/backgrounds/matthew-kane.jpg") center no-repeat;
+}
+.reservation_inner {
+  float: left;
+  width: 50%;
+}
+.form_wrap {
+  float: right;
+  margin-right: 35px;
+  box-shadow: 6px 6px 10px rgba(0,0,0,0.15);
+  border-radius: 20px;
+  padding: 40px 35px;
+  background-color: #fff;
+}
+.form_wrap p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 26px;
+  color: #5363db;
+  font-weight: 600;
+  text-align: start;
+  margin-bottom: 30px;
+}
+.title_wrap {
+  margin: 40px 0 0 45px;
+}
+.title_wrap p {
+  font-family: "Freestyle Script", sans-serif;
+  font-size: 40px;
+  color: #fff;
+  font-weight: 400;
+}
+.title {
+  margin-bottom: 40px;
+}
+form button {
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.15);
+  border-radius: 8px;
+  float: right;
+}
+input,
+select {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #888;
+  font-weight: 400;
+  width: 230px;
+  height: 50px;
+  border-radius: 8px;
+  border: #f2f2f2;
+  background-color: #f2f2f2;
+  padding-left: 10px;
+  margin-bottom: 17px;
+  outline: none;
+}
+input::-webkit-input-placeholder {
+  color: #888;
+}
+input:-moz-placeholder {
+  color: #888;
+}
+input::-moz-placeholder {
+  color: #888;
+}
+input:-ms-input-placeholder {
+  color: #888;
+}
+select {
+  cursor: pointer;
+  padding-left: 7px;
+  width: 240px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+}
+select::-ms-expand {
+  display: none;
+}
+input:focus,
+select:focus {
+  background-color: #f2f2f2 !important;
+}
+.form_select {
+  position: relative;
+}
+.form_select:after {
+  content: "";
+  border-style: solid;
+  border-width: 5px 5px 0 5px;
+  border-color: #636363 transparent transparent transparent;
+  pointer-events: none;
+  position: absolute;
+  top: 36%;
+  right: 10px;
+  z-index: 1;
+}

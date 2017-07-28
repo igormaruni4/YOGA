@@ -1,0 +1,95 @@
+@import "styl/vars&mixins.styl"
+
+.reservation
+  position relative
+
+.add_reserve_wrap
+  padding-top 95px
+
+//.img_background_wrap
+//  display none
+//  width 100%
+
+.block_reservation_wrap
+  height 600px
+  background url(../img/backgrounds/matthew-kane.jpg) center no-repeat
+
+.reservation_inner
+  float left
+  width 50%
+
+
+.form_wrap
+  float right
+  margin-right 35px
+  box-shadow 6px 6px 10px rgba(0, 0, 0, 0.15)
+  border-radius 20px
+  padding 40px 35px
+  background-color #fff
+  p
+    font-open(26px, dark-blue, 600)
+    text-align start
+    margin-bottom 30px
+.title_wrap
+  margin 40px 0 0 45px
+  p
+    font-free(40px, white, 400)
+.title
+  margin-bottom 40px
+form
+  button
+    box-shadow 2px 2px 5px rgba(0, 0, 0, 0.15)
+    border-radius 8px
+    float right
+
+input, select
+  font-open(14px, placeholder-color, 400)
+  width 230px
+  height 50px
+  border-radius: 8px
+  border input-color
+  background-color input-color
+  padding-left 10px
+  margin-bottom 17px
+  outline none
+
+input::-webkit-input-placeholder
+  color: placeholder-color
+input:-moz-placeholder
+  color: placeholder-color
+input::-moz-placeholder
+  color: placeholder-color
+input:-ms-input-placeholder
+  color: placeholder-color
+
+select
+  cursor pointer
+  padding-left 7px
+  width 240px
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+
+
+select::-ms-expand {
+  display: none;
+}
+
+input:focus,
+select:focus
+  background-color input-color !important
+
+.form_select
+  position relative
+
+.form_select:after
+  content: ""
+  border-style solid
+  border-width 5px 5px 0 5px
+  border-color #636363 transparent transparent transparent
+  pointer-events none
+  position absolute
+  top 36%
+  right 10px
+  z-index 1
+

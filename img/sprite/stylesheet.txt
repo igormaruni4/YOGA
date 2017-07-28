@@ -1,0 +1,143 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+/*.sprite-envelope {
+    width: 21px;
+    height: 13px;
+    background-position: -2px -2px;
+}
+
+.sprite-facebook-logo-outline {
+    width: 13px;
+    height: 21px;
+    background-position: -27px -2px;
+}*/
+
+/*.sprite-glyphicons-28-search {
+    width: 24px;
+    height: 24px;
+    background-position: -44px -2px;
+}*/
+
+/*.sprite-google-plus-outlined-logo-social-symbol {
+    width: 19px;
+    height: 21px;
+    background-position: -72px -2px;
+}
+
+.sprite-instagram-social-outlined-logo {
+    width: 21px;
+    height: 21px;
+    background-position: -95px -2px;
+}*/
+
+/*.sprite-logo {
+    width: 67px;
+    height: 42px;
+    background-position: -72px -27px;
+}*/
+
+/*.sprite-phone-call {
+    width: 21px;
+    height: 21px;
+    background-position: -120px -2px;
+}*/
+
+/*.sprite-pinterest-outlined-logo {
+    width: 17px;
+    height: 21px;
+    background-position: -2px -27px;
+}*/
+
+/*.sprite-placeholder {
+    width: 15px;
+    height: 21px;
+    background-position: -23px -27px;
+}
+
+.sprite-planet-earth {
+    width: 21px;
+    height: 21px;
+    background-position: -2px -73px;
+}*/
+
+/*.sprite-rectangle-1 {
+    width: 11px;
+    height: 19px;
+    background-position: -27px -73px;
+}*/
+
+/*.sprite-rectangle-1-small {
+    width: 8px;
+    height: 12px;
+    background-position: -143px -27px;
+}*/
+
+/*.sprite-rectangle-2 {
+    width: 11px;
+    height: 19px;
+    background-position: -42px -73px;
+}*/
+
+/*.sprite-rectangle-2-small {
+    width: 8px;
+    height: 12px;
+    background-position: -42px -43px;
+}*/
+
+/*.sprite-twitter-social-outlined-logo {
+    width: 25px;
+    height: 21px;
+    background-position: -57px -73px;
+}*/
+
+/*.sprite-vector-smart-object-balance {
+    width: 48px;
+    height: 53px;
+    background-position: -86px -73px;
+}
+
+.sprite-vector-smart-object-bone {
+    width: 19px;
+    height: 51px;
+    background-position: -155px -2px;
+}
+
+.sprite-vector-smart-object-eye {
+    width: 43px;
+    height: 25px;
+    background-position: -2px -130px;
+}
+
+.sprite-vector-smart-object-flexibility {
+    width: 49px;
+    height: 33px;
+    background-position: -49px -130px;
+}*/
+
+/*.sprite-vector-smart-object-health {
+    width: 39px;
+    height: 31px;
+    background-position: -102px -130px;
+}
+
+.sprite-vector-smart-object-pressure {
+    width: 28px;
+    height: 36px;
+    background-position: -143px -57px;
+}
+
+.sprite-vector-smart-object-sleep {
+    width: 34px;
+    height: 34px;
+    background-position: -2px -165px;
+}
+
+.sprite-vector-smart-object-weight {
+    width: 40px;
+    height: 34px;
+    background-position: -102px -165px;
+}*/

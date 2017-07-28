@@ -1,0 +1,65 @@
+.about_us_text_block {
+  margin-right: 9%;
+  float: left;
+  width: 41%;
+  padding: 20px 0;
+}
+.about_us_text_block h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  color: #5b6ceb;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+.about_us_text_block p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #555;
+  font-weight: 400;
+  line-height: 1.6;
+}
+.about_us_slider {
+  margin-left: 2%;
+  position: relative;
+  float: left;
+  width: 48%;
+}
+.about_us_slider img {
+  display: block;
+  width: 100%;
+}
+.for_both_btns {
+  box-shadow: 6px 6px 9px rgba(0,0,0,0.1);
+  background-color: #fff;
+  border-radius: 100%;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+}
+.left_btn_slider {
+  left: -25px;
+}
+.right_btn_slider {
+  right: -25px;
+}
+.for_both_rectangles {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  position: absolute;
+}
+.sprite-rectangle-1 {
+  width: 11px;
+  height: 19px;
+  background-position: -27px -73px;
+}
+.sprite-rectangle-2 {
+  width: 11px;
+  height: 19px;
+  background-position: -42px -73px;
+}

@@ -1,0 +1,50 @@
+.classes_wrap {
+  margin-top: 125px;
+}
+.class_img_wrap {
+  margin: 0 1%;
+  margin-top: 25px;
+  box-shadow: 4px 4px 20px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  width: 48%;
+  float: left;
+}
+.class_img_wrap img {
+  width: 100%;
+  display: block;
+}
+.class_even_block {
+  float: right;
+}
+.title_classes {
+  margin-bottom: 50px;
+  text-align: center;
+}
+.title_classes h2 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  color: #5b6ceb;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.title_classes p {
+  font-family: "Freestyle Script", sans-serif;
+  font-size: 41px;
+  color: #777;
+  font-weight: 400;
+}
+.classes_img_text_wrap .name {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #999;
+  font-weight: 400;
+  margin-top: 18px;
+}
+.classes_inner_img {
+  float: left;
+  width: 45%;
+}
+.classes_inner_text {
+  float: left;
+  width: 55%;
+}

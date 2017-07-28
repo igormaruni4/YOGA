@@ -1,0 +1,28 @@
+.gallery_img_wrap {
+  position: relative;
+  float: left;
+  width: 25%;
+}
+.gallery_img_wrap img {
+  display: block;
+  width: 100%;
+}
+.shadow_light {
+  display: none;
+  background-color: rgba(91,108,235,0.8);
+}
+.wrap_for_img_lens {
+  cursor: pointer;
+  background-color: #fff;
+  width: 57px;
+  height: 57px;
+  border-radius: 100%;
+}
+.sprite-glyphicons-28-search {
+  width: 25px;
+  height: 26px;
+  background-position: -43px 0;
+}
+.on_hover {
+  display: block;
+}

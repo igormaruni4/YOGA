@@ -1,0 +1,108 @@
+#footer {
+  background-color: #5b6ceb;
+}
+.footer_wrap {
+  padding-top: 90px;
+}
+.footer_about h3,
+.contact_us h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  color: #fff;
+  font-weight: 700;
+  margin-bottom: 55px;
+}
+.footer_about p,
+.contact_us p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #fff;
+  font-weight: 400;
+}
+.footer_about {
+  margin-bottom: 50px;
+  float: left;
+  width: 41%;
+  padding-right: 10%;
+}
+.contact_us {
+  float: left;
+  width: 49%;
+}
+.contact_us p {
+  padding-left: 33px;
+}
+.footer_all_items_in_contact {
+  margin-bottom: 25px;
+  vertical-align: top;
+  display: inline-block;
+  width: 49%;
+}
+.footer_all_items_in_contact .inner_for_sign_in_footer {
+  float: left;
+}
+.copyright p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  color: #b7bffc;
+  font-weight: 400;
+}
+.footer_soc_net a {
+  margin: 20px 1.5% 90px 0;
+  display: inline-block;
+}
+.copyright {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  text-align: center;
+  background-color: #5363db;
+}
+.sprite-pinterest-outlined-logo {
+  width: 17px;
+  height: 21px;
+  background-position: -2px -27px;
+}
+.sprite-twitter-social-outlined-logo {
+  width: 25px;
+  height: 21px;
+  background-position: -57px -73px;
+}
+.sprite-placeholder {
+  margin-top: 3px;
+  width: 15px;
+  height: 21px;
+  background-position: -23px -27px;
+}
+.sprite-planet-earth {
+  margin-top: 2px;
+  width: 21px;
+  height: 21px;
+  background-position: -2px -73px;
+}
+.sprite-phone-call {
+  margin-top: 5px;
+  width: 21px;
+  height: 21px;
+  background-position: -120px -2px;
+}
+.sprite-google-plus-outlined-logo-social-symbol {
+  width: 19px;
+  height: 21px;
+  background-position: -72px -2px;
+}
+.sprite-instagram-social-outlined-logo {
+  width: 21px;
+  height: 21px;
+  background-position: -95px -2px;
+}
+.sprite-envelope {
+  margin-top: 5px;
+  width: 21px;
+  height: 13px;
+  background-position: -2px -2px;
+}
+.sprite-facebook-logo-outline {
+  width: 13px;
+  height: 21px;
+  background-position: -27px -2px;
+}
