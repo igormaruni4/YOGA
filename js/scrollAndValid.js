@@ -61,12 +61,10 @@
     
       $("input.input_name").val(
         function(i, val){
-          console.log(i, val);
         
           let res = validator(val, regexps[0]);
         
           if(res === "isEmpty"){
-            console.log(this);
             return say(this, "Fill in this field");
           } else if (!res) {
             return say(this, "Letters and spaces");
@@ -78,12 +76,10 @@
     
       $("input.input_phone").val(
         function(i, val){
-          console.log(i, val);
         
           let res = validator(val, regexps[1]);
         
           if(res === "isEmpty"){
-            console.log(this);
             return say(this, "Fill in this field");
           } else if (!res) {
             return say(this, "Only numbers");
